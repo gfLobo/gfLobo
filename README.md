@@ -1,6 +1,6 @@
 ## Prazer, Haydeen Luph!👋
 
-<div><img align="right" alt="haydeenluph-avatar" height="200" width="200" src="https://media.discordapp.net/attachments/699473039007416322/704334853633736855/Screenshot_2020-04-27-11-09-20-1.png"></div>
+<div><img align="right" alt="haydeenluph-avatar" height="200" width="200" src="https://media.discordapp.net/attachments/699473039007416322/704334853050466385/Screenshot_2020-04-27-11-08-54-1.png"></div>
 
 - 🎨 UI/UX designer in progress...
 - 📱 Amante do IOT
