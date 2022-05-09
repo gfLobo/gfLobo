@@ -1,12 +1,12 @@
 ## Prazer, Gustavo!
 
-<div><img align="right" alt="haydeenluph-avatar" height="200" width="200" src="https://media.discordapp.net/attachments/699473039007416322/704334853050466385/Screenshot_2020-04-27-11-08-54-1.png"></div>
+<div><img align="right" alt="gfLobo-avatar" height="200" width="200" src="https://media.discordapp.net/attachments/699473039007416322/704334853050466385/Screenshot_2020-04-27-11-08-54-1.png"></div>
 
 
 <div>
   <a href="https://github.com/haydeenluph">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=haydeenluph&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haydeenluph&layout=compact&langs_count=7&theme=gruvbox"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gfLobo&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gfLobo&layout=compact&langs_count=7&theme=gruvbox"/>
   </div>
   
   <div>
