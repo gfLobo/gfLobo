@@ -1,6 +1,14 @@
 ## Prazer, Gustavo!
 
-Software Developer Full-Stack
+#### ENG
+
+Student in the Information Systems area and Full-Stack Developer, focusing on the development of web and mobile solutions through the use of Serverless API's and real-time databases. Skills with data analysis and task automation.
+
+---
+
+#### PT-BR 
+
+Estudante na área de Sistemas de Informação e Desenvolvedor Full-Stack, com foco no desenvolvimento de soluções web e mobile através do uso de API's Serverless e bancos de dados em tempo real. Habilidades com análise de dados e automatização de tarefas.
 
 <div><img align="right" alt="gfLobo-avatar" height="200" width="200" src="https://media.discordapp.net/attachments/699473039007416322/704334853050466385/Screenshot_2020-04-27-11-08-54-1.png"></div>
 
