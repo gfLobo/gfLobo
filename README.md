@@ -10,14 +10,13 @@ Student in the Information Systems area and Full-Stack Developer, focusing on th
 
 Estudante na área de Sistemas de Informação e Desenvolvedor Full-Stack, com foco no desenvolvimento de soluções web e mobile através do uso de API's Serverless e bancos de dados em tempo real. Habilidades com análise de dados e automatização de tarefas.
 
-<div><img align="right" alt="gfLobo-avatar" height="200" width="200" src="https://media.discordapp.net/attachments/699473039007416322/704334853050466385/Screenshot_2020-04-27-11-08-54-1.png"></div>
+<div><img align="right" alt="gfLobo-avatar" height="200" width="200" src="https://avatars.githubusercontent.com/u/79761328?v=4"></div>
 
 
 <div>
   <a href="https://github.com/gfLobo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gfLobo&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gfLobo&theme=maroongold "/>
-  </div>
+</div>
   
   <div>
     
