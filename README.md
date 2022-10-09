@@ -37,14 +37,15 @@ Estudante na área de Sistemas de Informação e Desenvolvedor Full-Stack, com f
   
    ### Currently working:
    
-   <div style="display: inline_block">
-   
-   <img src="https://badgen.net/badge/Haydeen/CRM/blue/"  href="https://haydeen-crm-web.vercel.app" target="_blank"/>
-   
-   
-   
-   </div>
-   
+<div style="display: inline_block">
+      
+
+
+[<img target="_blank"  src="https://user-images.githubusercontent.com/79761328/194733528-e45e5f4c-1d68-4138-8a6a-9ca784ca2aee.png" />](https://haydeen-crm-web.vercel.app)
+
+  
+</div> 
+
    
  
 
