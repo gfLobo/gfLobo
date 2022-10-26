@@ -2,13 +2,13 @@
 
 #### ENG
 
-Student in the Information Systems area and Web Developer Full-Stack, focusing on web solutions through the use of Serverless API's and real-time databases. Skills with data analysis and task automation.
+Student in the Information Systems area and Web Developer Full-Stack, focusing on solutions using Serverless API's. Skills with data analysis and task automation.
 
 ---
 
 #### PT-BR 
 
-Estudante na área de Sistemas de Informação e Desenvolvedor Web Full-Stack, com foco em soluções web através do uso de API's Serverless e bancos de dados em tempo real. Habilidades com análise de dados e automatização de tarefas.
+Estudante na área de Sistemas de Informação e Desenvolvedor Web Full-Stack, com foco em soluções que utilizam API's Serverless. Habilidades com análise de dados e automatização de tarefas.
 
 <div>
   <img align="right" alt="gfLobo-avatar" height="200" width="200"       src="https://cdn.discordapp.com/icons/731929196774948935/ffc6cf28a3e6df6fa38dbbb0b75787fe.png?size=2048">
