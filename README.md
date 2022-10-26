@@ -2,7 +2,7 @@
 
 #### ENG
 
-Student in Information Systems and Full-Stack Web Developer, focusing on solutions that use Serverless API's. Skills with data analysis and task automation.
+Student in Information Systems and Full-Stack Web Developer, focusing on solutions with Serverless API's. Skills with data analysis and task automation.
 
 ---
 
