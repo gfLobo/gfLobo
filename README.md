@@ -17,8 +17,8 @@ Estudante na área de Sistemas de Informação e Desenvolvedor Web Full-Stack, c
 
 <div>
   <a href="https://github.com/gfLobo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gfLobo&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gfLobo&layout=compact&theme=material-palenight" height="180em"  />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gfLobo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gfLobo&layout=compact&theme=dracula" height="180em"  />
 </div>
   
   <div>
