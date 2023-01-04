@@ -33,19 +33,6 @@ Estudante na área de Sistemas de Informação e Desenvolvedor Web Full-Stack, c
     <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   </div> 
     
-  ---
-  
-   ### Currently working:
-   
-<div style="display: inline_block">
-      
-
-
-[<img target="_blank"  src="https://user-images.githubusercontent.com/79761328/194733528-e45e5f4c-1d68-4138-8a6a-9ca784ca2aee.png" />](https://haydeen-crm-web.vercel.app)
-
-  
-</div> 
-
    
  
 
