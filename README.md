@@ -2,13 +2,19 @@
 
 #### ENG
 
-Student in Information Systems and Full-Stack Web Developer, focusing on solutions with Serverless API's. Skills with data analysis and task automation.
+Full-Stack web developer and Information Systems student with experience in serverless API solutions, data analysis, and task automation. Skilled in TypeScript/JavaScript, Java/Kotlin, Python, React.js/Next.js, React Native, Springboot, testing frameworks (Jest, Swagger, JUnit), Git/GitHub, CI/CD, and bundlers (Webpack, Vite). Proficient in UI frameworks like Material UI and Tailwind, and familiar with database systems like SQLite, PostgreSQL, and Firebase. Also experienced in developing hybrid and native mobile applications.
+
 
 ---
 
 #### PT-BR 
 
-Estudante na área de Sistemas de Informação e Desenvolvedor Web Full-Stack, com foco em soluções que utilizam API's Serverless. Habilidades com análise de dados e automatização de tarefas.
+Desenvolvedor web Full-Stack e estudante de Sistemas de Informação, com experiência em soluções de API sem
+servidor, análise de dados e automação de tarefas. Habilidades em TypeScript/JavaScript, Java/Kotlin, Python,
+React.js/Next.js, React Native, Springboot, frameworks de teste (Jest, Swagger, JUnit), Git/GitHub, CI/CD e bundlers
+(Webpack, Vite). Proficiente em frameworks de UI como Material UI e Tailwind, e familiarizado com sistemas de banco de
+dados como SQLite, PostgreSQL e Firebase. Também possui experiência em desenvolvimento de aplicativos móveis
+híbridos e nativos.
 
 <div>
   <img align="right" alt="gfLobo-avatar" height="200" width="200"       src="https://cdn.discordapp.com/icons/731929196774948935/ffc6cf28a3e6df6fa38dbbb0b75787fe.png?size=2048">
