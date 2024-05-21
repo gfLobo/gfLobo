@@ -1,12 +1,13 @@
 ## Prazer, Gustavo!
 
 #### ENG
-
-Information Systems undergraduate currently focusing my studies on back-end development, encompassing .NET and Java Spring Boot technologies with agile and continuous delivery. I have experience with scalable and secure applications following professional design patterns, ensuring robust testability and monitoring.
 ---
 
-#### PT-BR 
+Information Systems undergraduate currently focusing my studies on back-end development, encompassing .NET and Java Spring Boot technologies with agile and continuous delivery. I have experience with scalable and secure applications following professional design patterns, ensuring robust testability and monitoring.
 
+
+#### PT-BR 
+---
 Graduando em Sistemas de Informação e atualmente concentro meus estudos no desenvolvimento back-end, abrangendo tecnologias .NET e Java Spring Boot com entregas ágeis e contínuas. Tenho experiência com aplicações escaláveis  seguras em padrões de projeto profissionais garantindo a testabilidade e monitoramento robusto.
 
 
