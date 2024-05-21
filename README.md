@@ -2,14 +2,12 @@
 
 #### ENG
 
-Full-Stack developer and Systems Information student, with experience in serverless API solutions, data analysis, and task automation. Proficient in TypeScript/JavaScript, Java/Kotlin, Python, C# .NET, React.js/Next.js, React Native, Spring Boot, testing frameworks (Jest, Swagger, JUnit), Git/GitHub, CI/CD, and bundlers (Webpack, Vite). Skilled in UI frameworks such as Material UI and Tailwind, and familiar with database systems like SQLite, PostgreSQL, and Firebase. Also experienced in developing hybrid and native mobile applications.
-
+Information Systems undergraduate currently focusing my studies on back-end development, encompassing .NET and Java Spring Boot technologies with agile and continuous delivery. I have experience with scalable and secure applications following professional design patterns, ensuring robust testability and monitoring.
 ---
 
 #### PT-BR 
 
-Desenvolvedor Full-Stack e estudante de Sistemas de Informação, com experiência em soluções de API sem servidor, análise de dados e automação de tarefas. Habilidades em TypeScript/JavaScript, Java/Kotlin, Python, C# .NET, React.js/Next.js, React Native, Springboot, frameworks de teste (Jest, Swagger, JUnit), Git/GitHub, CI/CD, e bundlers (Webpack, Vite). Proficiente em frameworks de UI como Material UI e Tailwind, e familiarizado com sistemas de banco de dados como SQLite, PostgreSQL e Firebase. Também possui experiência em desenvolvimento de aplicativos móveis híbridos e nativos.
-
+Graduando em Sistemas de Informação e atualmente concentro meus estudos no desenvolvimento back-end, abrangendo tecnologias .NET e Java Spring Boot com entregas ágeis e contínuas. Tenho experiência com aplicações escaláveis  seguras em padrões de projeto profissionais garantindo a testabilidade e monitoramento robusto.
 
 
 
