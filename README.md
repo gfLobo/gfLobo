@@ -17,7 +17,7 @@ Graduando em Sistemas de Informação e atualmente concentro meus estudos no des
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gfLobo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gfLobo&layout=compact&theme=dracula" height="180em"  />
     
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=giggalobos&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=giggalobos&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=giggalobos&redirect=true)
 </div>
   
   <div>
