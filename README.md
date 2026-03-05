@@ -34,7 +34,7 @@ Formado em Sistemas de Informação e atualmente concentro meus estudos no desen
   <a href="https://github.com/gfLobo">
 
     
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=giggalobos&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=giggalobos&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=giggalobos&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=f6d32d&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=giggalobos&redirect=true)
 </div>
   
   <div>
