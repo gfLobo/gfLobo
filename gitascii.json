@@ -23936,7 +23936,8 @@
         "cardRawUrl": "https://assets.tcgdex.net/en/swsh/swsh10.5/030/low.png",
         "lockAspectRatio": false,
         "animationType": "slide-right",
-        "animationPreviewKey": 10
+        "animationPreviewKey": 10,
+        "enableHolo": false
       },
       "locked": false,
       "visible": true,
@@ -55652,7 +55653,7 @@
   "templateId": "cyberpunk",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1791295562850_rzgef",
-    "updatedAt": "2026-10-06T14:06:06.138Z"
+    "revision": "rev_1791298233917_vme0o",
+    "updatedAt": "2026-10-06T14:50:37.010Z"
   }
 }
