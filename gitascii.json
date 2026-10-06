@@ -35409,7 +35409,8 @@
         "accentColor": "#ff00ff",
         "animationType": "typewriter",
         "animationPreviewKey": 2,
-        "animationEasing": "ease-in-out"
+        "animationEasing": "ease-in-out",
+        "customTitle": "ascii_skull"
       },
       "locked": false,
       "visible": true,
@@ -35512,7 +35513,7 @@
   "templateId": "cyberpunk",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1791291949614_8ze5w",
-    "updatedAt": "2026-10-06T13:05:52.451Z"
+    "revision": "rev_1791292508564_suyir",
+    "updatedAt": "2026-10-06T13:15:11.415Z"
   }
 }
