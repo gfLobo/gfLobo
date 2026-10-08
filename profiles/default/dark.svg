@@ -96,7 +96,7 @@
           </clipPath>
           <g clip-path="url(#typewriter-clip-widget_1791258362563_2-1)">
             <text x="12" y="20" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#060606">─</tspan><tspan fill="#ffffff"> gfLobo@github </tspan><tspan fill="#060606">─────────────────────────────────────────</tspan></text>
-<text x="12" y="38" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ff00ff">. Uptime: </tspan><tspan fill="#ffffff">.....................</tspan><tspan fill="#ffffff"> 5 years, 7 months, 9 days</tspan></text>
+<text x="12" y="38" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ff00ff">. Uptime: </tspan><tspan fill="#ffffff">....................</tspan><tspan fill="#ffffff"> 5 years, 7 months, 11 days</tspan></text>
 <text x="12" y="56" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ff00ff">. Location: </tspan><tspan fill="#ffffff">......................................</tspan><tspan fill="#ffffff"> Brasil</tspan></text>
 <text x="12" y="74" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ff00ff">. Company: </tspan><tspan fill="#ffffff">..................................</tspan><tspan fill="#ffffff"> Ficou Fácil</tspan></text>
 <text x="12" y="92" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ff00ff">. Joined: </tspan><tspan fill="#ffffff">......................................</tspan><tspan fill="#ffffff"> Feb 2021</tspan></text>
@@ -104,8 +104,8 @@
 <text x="12" y="136" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ff00ff">. Website: </tspan><tspan fill="#ffffff">...................</tspan><tspan fill="#ffffff"> https://gflobo.vercel.app/</tspan></text>
 <text x="12" y="162" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#060606">─</tspan><tspan fill="#ffffff"> GitHub Stats </tspan><tspan fill="#060606">──────────────────────────────────────────</tspan></text>
 <text x="12" y="180" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ff00ff">. Repos: </tspan><tspan fill="#ffffff">...............</tspan><tspan fill="#ffffff"> 31</tspan><tspan fill="#060606"> | </tspan><tspan fill="#ff00ff">. Stars: </tspan><tspan fill="#ffffff">................</tspan><tspan fill="#ffffff"> 3</tspan></text>
-<text x="12" y="198" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ff00ff">. Commits: </tspan><tspan fill="#ffffff">............</tspan><tspan fill="#ffffff"> 256</tspan><tspan fill="#060606"> | </tspan><tspan fill="#ff00ff">. Followers: </tspan><tspan fill="#ffffff">...........</tspan><tspan fill="#ffffff"> 17</tspan></text>
-<text x="12" y="216" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ff00ff">. Following: </tspan><tspan fill="#ffffff">.........................................</tspan><tspan fill="#ffffff"> 48</tspan></text>
+<text x="12" y="198" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ff00ff">. Commits: </tspan><tspan fill="#ffffff">............</tspan><tspan fill="#ffffff"> 259</tspan><tspan fill="#060606"> | </tspan><tspan fill="#ff00ff">. Followers: </tspan><tspan fill="#ffffff">...........</tspan><tspan fill="#ffffff"> 17</tspan></text>
+<text x="12" y="216" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ff00ff">. Following: </tspan><tspan fill="#ffffff">.........................................</tspan><tspan fill="#ffffff"> 47</tspan></text>
           </g>
         
   
@@ -191,7 +191,7 @@
           <text class="anim-target" x="0" y="44" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="500" fill="#7a7a7a" letter-spacing="1.5" style="animation-delay: 277ms; transform-origin: center;">FOLLOWERS</text>
         </g>
         <g transform="translate(296, 48)">
-          <text class="anim-target" x="0" y="28" font-family="'JetBrains Mono', monospace" font-size="28" font-weight="300" fill="#ff00ff" style="animation-delay: 323ms; transform-origin: center;">48</text>
+          <text class="anim-target" x="0" y="28" font-family="'JetBrains Mono', monospace" font-size="28" font-weight="300" fill="#ff00ff" style="animation-delay: 323ms; transform-origin: center;">47</text>
           <text class="anim-target" x="0" y="44" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="500" fill="#7a7a7a" letter-spacing="1.5" style="animation-delay: 369ms; transform-origin: center;">FOLLOWING</text>
         </g>
         <g transform="translate(386.6666666666667, 48)">
@@ -377,12 +377,12 @@
 <rect class="c-widget_1791259031525" style="animation-delay:0.207s" x="140.29545454545456" y="59.81060606060606" width="7.848484848484849" height="7.848484848484849" rx="2.5" fill="#161b22"><title>2025-12-08: 0 contributions</title></rect>
 <rect class="c-widget_1791259031525" style="animation-delay:0.252s" x="140.29545454545456" y="69.62121212121212" width="7.848484848484849" height="7.848484848484849" rx="2.5" fill="#161b22"><title>2025-12-09: 0 contributions</title></rect>
 <rect class="c-widget_1791259031525" style="animation-delay:0.297s" x="140.29545454545456" y="79.43181818181819" width="7.848484848484849" height="7.848484848484849" rx="2.5" fill="#161b22"><title>2025-12-10: 0 contributions</title></rect>
-<rect class="c-widget_1791259031525" style="animation-delay:0.342s" x="140.29545454545456" y="89.24242424242425" width="7.848484848484849" height="7.848484848484849" rx="2.5" fill="#301934"><title>2025-12-11: 4 contributions</title></rect>
-<rect class="c-widget_1791259031525" style="animation-delay:0.387s" x="140.29545454545456" y="99.05303030303031" width="7.848484848484849" height="7.848484848484849" rx="2.5" fill="#301934"><title>2025-12-12: 2 contributions</title></rect>
+<rect class="c-widget_1791259031525" style="animation-delay:0.342s" x="140.29545454545456" y="89.24242424242425" width="7.848484848484849" height="7.848484848484849" rx="2.5" fill="#301934"><title>2025-12-11: 3 contributions</title></rect>
+<rect class="c-widget_1791259031525" style="animation-delay:0.387s" x="140.29545454545456" y="99.05303030303031" width="7.848484848484849" height="7.848484848484849" rx="2.5" fill="#301934"><title>2025-12-12: 3 contributions</title></rect>
 <rect class="c-widget_1791259031525" style="animation-delay:0.432s" x="140.29545454545456" y="108.86363636363636" width="7.848484848484849" height="7.848484848484849" rx="2.5" fill="#161b22"><title>2025-12-13: 0 contributions</title></rect>
 <rect class="c-widget_1791259031525" style="animation-delay:0.180s" x="150.10606060606062" y="50" width="7.848484848484849" height="7.848484848484849" rx="2.5" fill="#5e2f62"><title>2025-12-14: 11 contributions</title></rect>
-<rect class="c-widget_1791259031525" style="animation-delay:0.225s" x="150.10606060606062" y="59.81060606060606" width="7.848484848484849" height="7.848484848484849" rx="2.5" fill="#301934"><title>2025-12-15: 3 contributions</title></rect>
-<rect class="c-widget_1791259031525" style="animation-delay:0.270s" x="150.10606060606062" y="69.62121212121212" width="7.848484848484849" height="7.848484848484849" rx="2.5" fill="#161b22"><title>2025-12-16: 0 contributions</title></rect>
+<rect class="c-widget_1791259031525" style="animation-delay:0.225s" x="150.10606060606062" y="59.81060606060606" width="7.848484848484849" height="7.848484848484849" rx="2.5" fill="#301934"><title>2025-12-15: 2 contributions</title></rect>
+<rect class="c-widget_1791259031525" style="animation-delay:0.270s" x="150.10606060606062" y="69.62121212121212" width="7.848484848484849" height="7.848484848484849" rx="2.5" fill="#301934"><title>2025-12-16: 1 contribution</title></rect>
 <rect class="c-widget_1791259031525" style="animation-delay:0.315s" x="150.10606060606062" y="79.43181818181819" width="7.848484848484849" height="7.848484848484849" rx="2.5" fill="#161b22"><title>2025-12-17: 0 contributions</title></rect>
 <rect class="c-widget_1791259031525" style="animation-delay:0.360s" x="150.10606060606062" y="89.24242424242425" width="7.848484848484849" height="7.848484848484849" rx="2.5" fill="#161b22"><title>2025-12-18: 0 contributions</title></rect>
 <rect class="c-widget_1791259031525" style="animation-delay:0.405s" x="150.10606060606062" y="99.05303030303031" width="7.848484848484849" height="7.848484848484849" rx="2.5" fill="#161b22"><title>2025-12-19: 0 contributions</title></rect>
@@ -455,8 +455,8 @@
 <rect class="c-widget_1791259031525" style="animation-delay:0.450s" x="248.21212121212122" y="69.62121212121212" width="7.848484848484849" height="7.848484848484849" rx="2.5" fill="#161b22"><title>2026-02-24: 0 contributions</title></rect>
 <rect class="c-widget_1791259031525" style="animation-delay:0.495s" x="248.21212121212122" y="79.43181818181819" width="7.848484848484849" height="7.848484848484849" rx="2.5" fill="#5e2f62"><title>2026-02-25: 8 contributions</title></rect>
 <rect class="c-widget_1791259031525" style="animation-delay:0.540s" x="248.21212121212122" y="89.24242424242425" width="7.848484848484849" height="7.848484848484849" rx="2.5" fill="#5e2f62"><title>2026-02-26: 6 contributions</title></rect>
-<rect class="c-widget_1791259031525" style="animation-delay:0.585s" x="248.21212121212122" y="99.05303030303031" width="7.848484848484849" height="7.848484848484849" rx="2.5" fill="#301934"><title>2026-02-27: 3 contributions</title></rect>
-<rect class="c-widget_1791259031525" style="animation-delay:0.630s" x="248.21212121212122" y="108.86363636363636" width="7.848484848484849" height="7.848484848484849" rx="2.5" fill="#301934"><title>2026-02-28: 2 contributions</title></rect>
+<rect class="c-widget_1791259031525" style="animation-delay:0.585s" x="248.21212121212122" y="99.05303030303031" width="7.848484848484849" height="7.848484848484849" rx="2.5" fill="#301934"><title>2026-02-27: 2 contributions</title></rect>
+<rect class="c-widget_1791259031525" style="animation-delay:0.630s" x="248.21212121212122" y="108.86363636363636" width="7.848484848484849" height="7.848484848484849" rx="2.5" fill="#301934"><title>2026-02-28: 3 contributions</title></rect>
 <rect class="c-widget_1791259031525" style="animation-delay:0.378s" x="258.02272727272725" y="50" width="7.848484848484849" height="7.848484848484849" rx="2.5" fill="#301934"><title>2026-03-01: 3 contributions</title></rect>
 <rect class="c-widget_1791259031525" style="animation-delay:0.423s" x="258.02272727272725" y="59.81060606060606" width="7.848484848484849" height="7.848484848484849" rx="2.5" fill="#161b22"><title>2026-03-02: 0 contributions</title></rect>
 <rect class="c-widget_1791259031525" style="animation-delay:0.468s" x="258.02272727272725" y="69.62121212121212" width="7.848484848484849" height="7.848484848484849" rx="2.5" fill="#301934"><title>2026-03-03: 1 contribution</title></rect>
@@ -483,8 +483,8 @@
 <rect class="c-widget_1791259031525" style="animation-delay:0.522s" x="287.45454545454544" y="69.62121212121212" width="7.848484848484849" height="7.848484848484849" rx="2.5" fill="#161b22"><title>2026-03-24: 0 contributions</title></rect>
 <rect class="c-widget_1791259031525" style="animation-delay:0.567s" x="287.45454545454544" y="79.43181818181819" width="7.848484848484849" height="7.848484848484849" rx="2.5" fill="#161b22"><title>2026-03-25: 0 contributions</title></rect>
 <rect class="c-widget_1791259031525" style="animation-delay:0.612s" x="287.45454545454544" y="89.24242424242425" width="7.848484848484849" height="7.848484848484849" rx="2.5" fill="#161b22"><title>2026-03-26: 0 contributions</title></rect>
-<rect class="c-widget_1791259031525" style="animation-delay:0.657s" x="287.45454545454544" y="99.05303030303031" width="7.848484848484849" height="7.848484848484849" rx="2.5" fill="#5e2f62"><title>2026-03-27: 9 contributions</title></rect>
-<rect class="c-widget_1791259031525" style="animation-delay:0.702s" x="287.45454545454544" y="108.86363636363636" width="7.848484848484849" height="7.848484848484849" rx="2.5" fill="#301934"><title>2026-03-28: 5 contributions</title></rect>
+<rect class="c-widget_1791259031525" style="animation-delay:0.657s" x="287.45454545454544" y="99.05303030303031" width="7.848484848484849" height="7.848484848484849" rx="2.5" fill="#5e2f62"><title>2026-03-27: 8 contributions</title></rect>
+<rect class="c-widget_1791259031525" style="animation-delay:0.702s" x="287.45454545454544" y="108.86363636363636" width="7.848484848484849" height="7.848484848484849" rx="2.5" fill="#5e2f62"><title>2026-03-28: 6 contributions</title></rect>
 <rect class="c-widget_1791259031525" style="animation-delay:0.450s" x="297.2651515151515" y="50" width="7.848484848484849" height="7.848484848484849" rx="2.5" fill="#161b22"><title>2026-03-29: 0 contributions</title></rect>
 <rect class="c-widget_1791259031525" style="animation-delay:0.495s" x="297.2651515151515" y="59.81060606060606" width="7.848484848484849" height="7.848484848484849" rx="2.5" fill="#301934"><title>2026-03-30: 2 contributions</title></rect>
 <rect class="c-widget_1791259031525" style="animation-delay:0.540s" x="297.2651515151515" y="69.62121212121212" width="7.848484848484849" height="7.848484848484849" rx="2.5" fill="#161b22"><title>2026-03-31: 0 contributions</title></rect>
@@ -620,8 +620,8 @@
 <rect class="c-widget_1791259031525" style="animation-delay:1.044s" x="473.8560606060606" y="108.86363636363636" width="7.848484848484849" height="7.848484848484849" rx="2.5" fill="#161b22"><title>2026-08-08: 0 contributions</title></rect>
 <rect class="c-widget_1791259031525" style="animation-delay:0.792s" x="483.6666666666667" y="50" width="7.848484848484849" height="7.848484848484849" rx="2.5" fill="#161b22"><title>2026-08-09: 0 contributions</title></rect>
 <rect class="c-widget_1791259031525" style="animation-delay:0.837s" x="483.6666666666667" y="59.81060606060606" width="7.848484848484849" height="7.848484848484849" rx="2.5" fill="#301934"><title>2026-08-10: 3 contributions</title></rect>
-<rect class="c-widget_1791259031525" style="animation-delay:0.882s" x="483.6666666666667" y="69.62121212121212" width="7.848484848484849" height="7.848484848484849" rx="2.5" fill="#301934"><title>2026-08-11: 4 contributions</title></rect>
-<rect class="c-widget_1791259031525" style="animation-delay:0.927s" x="483.6666666666667" y="79.43181818181819" width="7.848484848484849" height="7.848484848484849" rx="2.5" fill="#301934"><title>2026-08-12: 1 contribution</title></rect>
+<rect class="c-widget_1791259031525" style="animation-delay:0.882s" x="483.6666666666667" y="69.62121212121212" width="7.848484848484849" height="7.848484848484849" rx="2.5" fill="#301934"><title>2026-08-11: 3 contributions</title></rect>
+<rect class="c-widget_1791259031525" style="animation-delay:0.927s" x="483.6666666666667" y="79.43181818181819" width="7.848484848484849" height="7.848484848484849" rx="2.5" fill="#301934"><title>2026-08-12: 2 contributions</title></rect>
 <rect class="c-widget_1791259031525" style="animation-delay:0.972s" x="483.6666666666667" y="89.24242424242425" width="7.848484848484849" height="7.848484848484849" rx="2.5" fill="#161b22"><title>2026-08-13: 0 contributions</title></rect>
 <rect class="c-widget_1791259031525" style="animation-delay:1.017s" x="483.6666666666667" y="99.05303030303031" width="7.848484848484849" height="7.848484848484849" rx="2.5" fill="#161b22"><title>2026-08-14: 0 contributions</title></rect>
 <rect class="c-widget_1791259031525" style="animation-delay:1.062s" x="483.6666666666667" y="108.86363636363636" width="7.848484848484849" height="7.848484848484849" rx="2.5" fill="#161b22"><title>2026-08-15: 0 contributions</title></rect>
@@ -676,7 +676,9 @@
 <rect class="c-widget_1791259031525" style="animation-delay:1.188s" x="552.340909090909" y="108.86363636363636" width="7.848484848484849" height="7.848484848484849" rx="2.5" fill="#161b22"><title>2026-10-03: 0 contributions</title></rect>
 <rect class="c-widget_1791259031525" style="animation-delay:0.936s" x="562.1515151515151" y="50" width="7.848484848484849" height="7.848484848484849" rx="2.5" fill="#161b22"><title>2026-10-04: 0 contributions</title></rect>
 <rect class="c-widget_1791259031525" style="animation-delay:0.981s" x="562.1515151515151" y="59.81060606060606" width="7.848484848484849" height="7.848484848484849" rx="2.5" fill="#5e2f62"><title>2026-10-05: 8 contributions</title></rect>
-<rect class="c-widget_1791259031525" style="animation-delay:1.026s" x="562.1515151515151" y="69.62121212121212" width="7.848484848484849" height="7.848484848484849" rx="2.5" fill="#8c4f91"><title>2026-10-06: 21 contributions</title></rect>
+<rect class="c-widget_1791259031525" style="animation-delay:1.026s" x="562.1515151515151" y="69.62121212121212" width="7.848484848484849" height="7.848484848484849" rx="2.5" fill="#8c4f91"><title>2026-10-06: 24 contributions</title></rect>
+<rect class="c-widget_1791259031525" style="animation-delay:1.071s" x="562.1515151515151" y="79.43181818181819" width="7.848484848484849" height="7.848484848484849" rx="2.5" fill="#161b22"><title>2026-10-07: 0 contributions</title></rect>
+<rect class="c-widget_1791259031525" style="animation-delay:1.116s" x="562.1515151515151" y="89.24242424242425" width="7.848484848484849" height="7.848484848484849" rx="2.5" fill="#161b22"><title>2026-10-08: 0 contributions</title></rect>
 <text x="473.0984848484849" y="131.0" fill="#7d8590" font-size="10" text-anchor="end">Less</text>
 <rect x="479.0984848484849" y="124.67424242424242" width="7.848484848484849" height="7.848484848484849" rx="2.2" fill="#161b22"/>
 <rect x="488.90909090909093" y="124.67424242424242" width="7.848484848484849" height="7.848484848484849" rx="2.2" fill="#301934"/>
@@ -686,10 +688,10 @@
 <rect x="528.1515151515151" y="124.67424242424242" width="7.848484848484849" height="7.848484848484849" rx="2.2" fill="#e894ef"/>
 <text x="570" y="131.0" fill="#7d8590" font-size="10" text-anchor="end">More</text>
 <line x1="0" y1="146.52272727272728" x2="592" y2="146.52272727272728" stroke="#000000" stroke-opacity="0.25"/>
-<text x="22" y="170.52272727272728" font-size="13" fill="#39d353"><tspan font-weight="700">256</tspan><tspan fill="#7d8590"> contributions in the last year</tspan></text>
-<text x="570" y="170.52272727272728" font-size="12" fill="#7d8590" text-anchor="end">Oct 5, 2025 &#8594; Oct 6, 2026</text>
+<text x="22" y="170.52272727272728" font-size="13" fill="#39d353"><tspan font-weight="700">259</tspan><tspan fill="#7d8590"> contributions in the last year</tspan></text>
+<text x="570" y="170.52272727272728" font-size="12" fill="#7d8590" text-anchor="end">Oct 5, 2025 &#8594; Oct 8, 2026</text>
 <text x="22" y="194.52272727272728" font-size="13" fill="#7d8590">current streak <tspan fill="#ff00ff" font-weight="700">2 days</tspan><tspan fill="#7d8590">   &#183;   longest </tspan><tspan fill="#ff00ff" font-weight="700">13 days</tspan></text>
-<text x="570" y="194.52272727272728" font-size="12" fill="#7d8590" text-anchor="end">best day <tspan fill="#f2cc60" font-weight="700">21</tspan> on Jan 19, 2026</text>
+<text x="570" y="194.52272727272728" font-size="12" fill="#7d8590" text-anchor="end">best day <tspan fill="#f2cc60" font-weight="700">24</tspan> on Oct 6, 2026</text>
 </svg>
   
     </g>
